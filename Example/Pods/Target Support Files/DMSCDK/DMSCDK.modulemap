@@ -1,0 +1,6 @@
+framework module DMSCDK {
+  umbrella header "DMSCDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

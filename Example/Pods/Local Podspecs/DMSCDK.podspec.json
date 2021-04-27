@@ -1,0 +1,22 @@
+{
+  "name": "DMSCDK",
+  "version": "0.1.0",
+  "summary": "A short description of DMSCDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nvtinh368/DMSCDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nvtinh368": "tinhnv@diachiso.vn"
+  },
+  "source": {
+    "git": "https://github.com/nvtinh368/DMSCDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DMSCDK/Classes/**/*"
+}
